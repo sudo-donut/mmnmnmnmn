@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mmnmnmnmn
+- 👀 I’m interested in Python coding
+- 🌱 I’m currently learning Turtle grphics
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me ?
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Im a human
